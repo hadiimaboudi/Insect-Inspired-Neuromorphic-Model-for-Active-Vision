@@ -8,7 +8,7 @@
 % maboudi@gmail.com
 % November 2022
 ---
-%*****************************************************
+
 % for work stemming from use of this code, please cite
 % XXXX
-%****************************************************
+
