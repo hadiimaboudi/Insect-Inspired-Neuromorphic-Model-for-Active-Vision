@@ -17,7 +17,7 @@ The repository is organised into several key directories and files. The data/ fo
 
 
 % If you use or adapt this model in your work, please cite:
-MaBouDi H., Roper M., Guiraud M.-G., Juusola M., Chittka L., Marshall J.A.R.
+MaBouDi H., Roper M., Guiraud M.-G., Juusola M., Chittka L., Marshall J.A.R. 2025. 
 A neuromorphic model of active vision shows how spatiotemporal encoding in lobula neurons can aid pattern recognition in bees. 
 https://doi.org/10.7554/eLife.89929
 
